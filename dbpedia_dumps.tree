@@ -1,0 +1,1374 @@
+├── 1.0
+│   ├── articles_categories.zip
+│   ├── articles_externallinks.zip
+│   ├── articles_languages_longabstracts.zip
+│   ├── articles_languages.zip
+│   ├── articles_longabstracts.zip
+│   ├── articles.zip
+│   ├── bookmashup.zip
+│   ├── categories.zip
+│   ├── cities.zip
+│   ├── dblp.zip
+│   ├── dbpedia_quotationsbook.zip
+│   ├── eurostat.zip
+│   ├── factbook.zip
+│   ├── geonames_types.zip
+│   ├── geonames.zip
+│   ├── gutenberg.zip
+│   ├── infoboxes.zip
+│   ├── internallinktargetcount.zip
+│   ├── musicbrainz.zip
+│   ├── pagelinks.rar
+│   ├── persons.zip
+│   ├── revyu.zip
+│   ├── uscensus.zip
+│   ├── yagoclass_old.zip
+│   └── yagoclass.zip
+├── 2.0
+│   ├── articles_abstract_de.nt.bz2
+│   ├── articles_abstract_en.nt.bz2
+│   ├── articles_abstract_es.nt.bz2
+│   ├── articles_abstract_fi.nt.bz2
+│   ├── articles_abstract_fr.nt.bz2
+│   ├── articles_abstract_it.nt.bz2
+│   ├── articles_abstract_ja.nt.bz2
+│   ├── articles_abstract_nl.nt.bz2
+│   ├── articles_abstract_no.nt.bz2
+│   ├── articles_abstract_pl.nt.bz2
+│   ├── articles_abstract_pt.nt.bz2
+│   ├── articles_abstract_ru.nt.bz2
+│   ├── articles_abstract_sv.nt.bz2
+│   ├── articles_abstract_zh.nt.bz2
+│   ├── articles_category.nt.bz2
+│   ├── articles_externallinks.nt.bz2
+│   ├── articles_image.nt.bz2
+│   ├── articles_label_de.nt.bz2
+│   ├── articles_label_en.nt.bz2
+│   ├── articles_label_es.nt.bz2
+│   ├── articles_label_fi.nt.bz2
+│   ├── articles_label_fr.nt.bz2
+│   ├── articles_label_it.nt.bz2
+│   ├── articles_label_ja.nt.bz2
+│   ├── articles_label_nl.nt.bz2
+│   ├── articles_label_no.nt.bz2
+│   ├── articles_label_pl.nt.bz2
+│   ├── articles_label_pt.nt.bz2
+│   ├── articles_label_ru.nt.bz2
+│   ├── articles_label_sv.nt.bz2
+│   ├── articles_label_zh.nt.bz2
+│   ├── articles_languages_longabstracts.tar
+│   ├── articles_languages.tar
+│   ├── articles_longabstract_de.nt.bz2
+│   ├── articles_longabstract_en.nt.bz2
+│   ├── articles_longabstract_es.nt.bz2
+│   ├── articles_longabstract_fi.nt.bz2
+│   ├── articles_longabstract_fr.nt.bz2
+│   ├── articles_longabstract_it.nt.bz2
+│   ├── articles_longabstract_ja.nt.bz2
+│   ├── articles_longabstract_nl.nt.bz2
+│   ├── articles_longabstract_no.nt.bz2
+│   ├── articles_longabstract_pl.nt.bz2
+│   ├── articles_longabstract_pt.nt.bz2
+│   ├── articles_longabstract_ru.nt.bz2
+│   ├── articles_longabstract_sv.nt.bz2
+│   ├── articles_longabstract_zh.nt.bz2
+│   ├── articles.tar
+│   ├── articles_wikipage_de.nt.bz2
+│   ├── articles_wikipage_en.nt.bz2
+│   ├── articles_wikipage_es.nt.bz2
+│   ├── articles_wikipage_fi.nt.bz2
+│   ├── articles_wikipage_fr.nt.bz2
+│   ├── articles_wikipage_it.nt.bz2
+│   ├── articles_wikipage_ja.nt.bz2
+│   ├── articles_wikipage_nl.nt.bz2
+│   ├── articles_wikipage_no.nt.bz2
+│   ├── articles_wikipage_pl.nt.bz2
+│   ├── articles_wikipage_pt.nt.bz2
+│   ├── articles_wikipage_ru.nt.bz2
+│   ├── articles_wikipage_sv.nt.bz2
+│   ├── articles_wikipage_zh.nt.bz2
+│   ├── categories_label.nt.bz2
+│   ├── categories_skos.nt.bz2
+│   ├── disambiguations.nt.bz2
+│   ├── geocoordinates.nt.bz2
+│   ├── homepages.nt.bz2
+│   ├── infoboxes.nt.bz2
+│   ├── infoboxes.properties.nt.bz2
+│   ├── links_bookmashup.nt.bz2
+│   ├── links_dblp.nt.bz2
+│   ├── links_eurostat.nt.bz2
+│   ├── links_factbook.nt.bz2
+│   ├── links_geonames.nt.bz2
+│   ├── links_gutenberg.nt.bz2
+│   ├── links_musicbrainz.nt.bz2
+│   ├── links_quotationsbook.nt.bz2
+│   ├── links_revyu.nt.bz2
+│   ├── links_uscensus.nt.bz2
+│   ├── old_links_musicbrainz.nt.bz2
+│   ├── pagelinks.tar
+│   ├── persons.nt.bz2
+│   ├── photoCollections.nt.gz
+│   ├── qdos.zip
+│   ├── redirects.nt.bz2
+│   ├── wikicompanyLinks.nt.gz
+│   ├── wordnet_classes.nt.bz2
+│   ├── yago_classes.nt.bz2
+│   └── yago-class-hierarchy.nt.bz2
+├── 2014
+│   └── en
+│       ├── article_categories_en.nq.bz2
+│       ├── article_categories_en.nt.bz2
+│       ├── article_categories_en.tql.bz2
+│       ├── article_categories_en.ttl.bz2
+│       ├── article_templates_en.nq.bz2
+│       ├── article_templates_en.nt.bz2
+│       ├── article_templates_en.tql.bz2
+│       ├── article_templates_en.ttl.bz2
+│       ├── category_labels_en.nq.bz2
+│       ├── category_labels_en.nt.bz2
+│       ├── category_labels_en.tql.bz2
+│       ├── category_labels_en.ttl.bz2
+│       ├── disambiguations_en.nq.bz2
+│       ├── disambiguations_en.nt.bz2
+│       ├── disambiguations_en.tql.bz2
+│       ├── disambiguations_en.ttl.bz2
+│       ├── disambiguations_unredirected_en.nq.bz2
+│       ├── disambiguations_unredirected_en.nt.bz2
+│       ├── disambiguations_unredirected_en.tql.bz2
+│       ├── disambiguations_unredirected_en.ttl.bz2
+│       ├── external_links_en.nq.bz2
+│       ├── external_links_en.nt.bz2
+│       ├── external_links_en.tql.bz2
+│       ├── external_links_en.ttl.bz2
+│       ├── flickr_wrappr_links_en.nq.bz2
+│       ├── flickr_wrappr_links_en.nt.bz2
+│       ├── flickr_wrappr_links_en.tql.bz2
+│       ├── flickr_wrappr_links_en.ttl.bz2
+│       ├── freebase_links_en.nt.bz2
+│       ├── freebase_links_en.ttl.bz2
+│       ├── genders_en.nq.bz2
+│       ├── genders_en.nt.bz2
+│       ├── genders_en.tql.bz2
+│       ├── genders_en.ttl.bz2
+│       ├── geo_coordinates_en.nq.bz2
+│       ├── geo_coordinates_en.nt.bz2
+│       ├── geo_coordinates_en.tql.bz2
+│       ├── geo_coordinates_en.ttl.bz2
+│       ├── geonames_links_en_en.nt.bz2
+│       ├── geonames_links_en_en.ttl.bz2
+│       ├── homepages_en.nq.bz2
+│       ├── homepages_en.nt.bz2
+│       ├── homepages_en.tql.bz2
+│       ├── homepages_en.ttl.bz2
+│       ├── images_en.nq.bz2
+│       ├── images_en.nt.bz2
+│       ├── images_en.tql.bz2
+│       ├── images_en.ttl.bz2
+│       ├── infobox_properties_en.nq.bz2
+│       ├── infobox_properties_en.nt.bz2
+│       ├── infobox_properties_en.tql.bz2
+│       ├── infobox_properties_en.ttl.bz2
+│       ├── infobox_properties_unredirected_en.nq.bz2
+│       ├── infobox_properties_unredirected_en.nt.bz2
+│       ├── infobox_properties_unredirected_en.tql.bz2
+│       ├── infobox_properties_unredirected_en.ttl.bz2
+│       ├── infobox_property_definitions_en.nq.bz2
+│       ├── infobox_property_definitions_en.nt.bz2
+│       ├── infobox_property_definitions_en.tql.bz2
+│       ├── infobox_property_definitions_en.ttl.bz2
+│       ├── infobox_test_en.nq.bz2
+│       ├── infobox_test_en.nt.bz2
+│       ├── infobox_test_en.tql.bz2
+│       ├── infobox_test_en.ttl.bz2
+│       ├── instance_types_en.nq.bz2
+│       ├── instance_types_en.nt.bz2
+│       ├── instance_types_en.tql.bz2
+│       ├── instance_types_en.ttl.bz2
+│       ├── instance_types_heuristic_en.nt.bz2
+│       ├── interlanguage_links_chapters_en.nq.bz2
+│       ├── interlanguage_links_chapters_en.nt.bz2
+│       ├── interlanguage_links_chapters_en.tql.bz2
+│       ├── interlanguage_links_chapters_en.ttl.bz2
+│       ├── interlanguage_links_en.nq.bz2
+│       ├── interlanguage_links_en.nt.bz2
+│       ├── interlanguage_links_en.tql.bz2
+│       ├── interlanguage_links_en.ttl.bz2
+│       ├── iri_same_as_uri_en.nt.bz2
+│       ├── iri_same_as_uri_en.ttl.bz2
+│       ├── labels_en.nq.bz2
+│       ├── labels_en.nt.bz2
+│       ├── labels_en.tql.bz2
+│       ├── labels_en.ttl.bz2
+│       ├── long_abstracts_en.nq.bz2
+│       ├── long_abstracts_en.nt.bz2
+│       ├── long_abstracts_en.tql.bz2
+│       ├── long_abstracts_en.ttl.bz2
+│       ├── mappingbased_properties_cleaned_en.nt.bz2
+│       ├── mappingbased_properties_en.diff.nt.bz2
+│       ├── mappingbased_properties_en.nq.bz2
+│       ├── mappingbased_properties_en.nt.bz2
+│       ├── mappingbased_properties_en.tql.bz2
+│       ├── mappingbased_properties_en.ttl.bz2
+│       ├── mappingbased_properties_unredirected_en.nq.bz2
+│       ├── mappingbased_properties_unredirected_en.nt.bz2
+│       ├── mappingbased_properties_unredirected_en.tql.bz2
+│       ├── mappingbased_properties_unredirected_en.ttl.bz2
+│       ├── old_interlanguage_links_en.nq.bz2
+│       ├── old_interlanguage_links_en.nt.bz2
+│       ├── old_interlanguage_links_en.tql.bz2
+│       ├── old_interlanguage_links_en.ttl.bz2
+│       ├── out_degree_en.nq.bz2
+│       ├── out_degree_en.nt.bz2
+│       ├── out_degree_en.tql.bz2
+│       ├── out_degree_en.ttl.bz2
+│       ├── page_ids_en.nq.bz2
+│       ├── page_ids_en.nt.bz2
+│       ├── page_ids_en.tql.bz2
+│       ├── page_ids_en.ttl.bz2
+│       ├── page_length_en.nq.bz2
+│       ├── page_length_en.nt.bz2
+│       ├── page_length_en.tql.bz2
+│       ├── page_length_en.ttl.bz2
+│       ├── page_links_en.nq.bz2
+│       ├── page_links_en.nt.bz2
+│       ├── page_links_en.tql.bz2
+│       ├── page_links_en.ttl.bz2
+│       ├── page_links_unredirected_en.nq.bz2
+│       ├── page_links_unredirected_en.nt.bz2
+│       ├── page_links_unredirected_en.tql.bz2
+│       ├── page_links_unredirected_en.ttl.bz2
+│       ├── persondata_en.nq.bz2
+│       ├── persondata_en.nt.bz2
+│       ├── persondata_en.tql.bz2
+│       ├── persondata_en.ttl.bz2
+│       ├── persondata_unredirected_en.nq.bz2
+│       ├── persondata_unredirected_en.nt.bz2
+│       ├── persondata_unredirected_en.tql.bz2
+│       ├── persondata_unredirected_en.ttl.bz2
+│       ├── pnd_en.nq.bz2
+│       ├── pnd_en.nt.bz2
+│       ├── pnd_en.tql.bz2
+│       ├── pnd_en.ttl.bz2
+│       ├── redirects_en.nq.bz2
+│       ├── redirects_en.nt.bz2
+│       ├── redirects_en.tql.bz2
+│       ├── redirects_en.ttl.bz2
+│       ├── redirects_transitive_en.nt.bz2
+│       ├── redirects_transitive_en.ttl.bz2
+│       ├── revision_ids_en.nq.bz2
+│       ├── revision_ids_en.nt.bz2
+│       ├── revision_ids_en.tql.bz2
+│       ├── revision_ids_en.ttl.bz2
+│       ├── revision_uris_en.nq.bz2
+│       ├── revision_uris_en.nt.bz2
+│       ├── revision_uris_en.tql.bz2
+│       ├── revision_uris_en.ttl.bz2
+│       ├── short_abstracts_en.nq.bz2
+│       ├── short_abstracts_en.nt.bz2
+│       ├── short_abstracts_en.tql.bz2
+│       ├── short_abstracts_en.ttl.bz2
+│       ├── skos_categories_en.nq.bz2
+│       ├── skos_categories_en.nt.bz2
+│       ├── skos_categories_en.tql.bz2
+│       ├── skos_categories_en.ttl.bz2
+│       ├── specific_mappingbased_properties_en.nq.bz2
+│       ├── specific_mappingbased_properties_en.nt.bz2
+│       ├── specific_mappingbased_properties_en.tql.bz2
+│       ├── specific_mappingbased_properties_en.ttl.bz2
+│       ├── topical_concepts_en.nq.bz2
+│       ├── topical_concepts_en.nt.bz2
+│       ├── topical_concepts_en.tql.bz2
+│       ├── topical_concepts_en.ttl.bz2
+│       ├── topical_concepts_unredirected_en.nq.bz2
+│       ├── topical_concepts_unredirected_en.nt.bz2
+│       ├── topical_concepts_unredirected_en.tql.bz2
+│       ├── topical_concepts_unredirected_en.ttl.bz2
+│       ├── wikipedia_links_en.nq.bz2
+│       ├── wikipedia_links_en.nt.bz2
+│       ├── wikipedia_links_en.tql.bz2
+│       └── wikipedia_links_en.ttl.bz2
+├── 3.0
+│   └── en
+│       ├── articlecategories_en.csv.bz2
+│       ├── articlecategories_en.nt.bz2
+│       ├── articles_label_en.csv.bz2
+│       ├── articles_label_en.nt.bz2
+│       ├── categories_label_en.csv.bz2
+│       ├── categories_label_en.nt.bz2
+│       ├── cwccclasses_en.csv.bz2
+│       ├── cwccclasses_en.nt.bz2
+│       ├── cwccclassesinstances_en.csv.bz2
+│       ├── cwccclassesinstances_en.nt.bz2
+│       ├── disambiguation_en.csv.bz2
+│       ├── disambiguation_en.nt.bz2
+│       ├── externallinks_en.csv.bz2
+│       ├── externallinks_en.nt.bz2
+│       ├── flickr_en.nt.bz2
+│       ├── geo_en.csv.bz2
+│       ├── geo_en.nt.bz2
+│       ├── homepage_en.csv.bz2
+│       ├── homepage_en.nt.bz2
+│       ├── image_en.csv.bz2
+│       ├── image_en.nt.bz2
+│       ├── infobox_en.csv.bz2
+│       ├── infobox_en.nt.bz2
+│       ├── infoboxproperties_en.csv.bz2
+│       ├── infoboxproperties_en.nt.bz2
+│       ├── links_bookmashup_en.nt.bz2
+│       ├── links_cyc_en.nt.bz2
+│       ├── links_dblp_en.nt.bz2
+│       ├── links_eurostat_en.nt.bz2
+│       ├── links_factbook_en.nt.bz2
+│       ├── links_geonames_en.nt.bz2
+│       ├── links_gutenberg_en.nt.bz2
+│       ├── links_musicbrainz_en.nt.bz2
+│       ├── links_quotationsbook_en.nt.bz2
+│       ├── links_revyu_en.nt.bz2
+│       ├── links_uscensus_en.nt.bz2
+│       ├── longabstract_en.csv.bz2
+│       ├── longabstract_en.nt.bz2
+│       ├── pagelinks_en.csv.bz2
+│       ├── pagelinks_en.nt.bz2
+│       ├── redirect_en.csv.bz2
+│       ├── redirect_en.nt.bz2
+│       ├── shortabstract_en.csv.bz2
+│       ├── shortabstract_en.nt.bz2
+│       ├── skoscategories_en.csv.bz2
+│       ├── skoscategories_en.nt.bz2
+│       ├── wikicompany_links_en.nt.bz2
+│       ├── wikipage_en.csv.bz2
+│       ├── wikipage_en.nt.bz2
+│       ├── wordnetlink_en.csv.bz2
+│       ├── wordnetlink_en.nt.bz2
+│       ├── yago-class-hierarchy_en.nt.bz2
+│       ├── yagolink_en.csv.bz2
+│       └── yagolink_en.nt.bz2
+├── 3.0rc
+│   └── en
+│       ├── akswclasses_en.csv.bz2
+│       ├── akswclasses_en.nt.bz2
+│       ├── akswclassesinstances_en.csv.bz2
+│       ├── akswclassesinstances_en.nt.bz2
+│       ├── articles_abstract_en.csv.bz2
+│       ├── articles_abstract_en.nt.bz2
+│       ├── articles_category_en.csv.bz2
+│       ├── articles_category_en.nt.bz2
+│       ├── articles_externallinks_en.csv.bz2
+│       ├── articles_externallinks_en.nt.bz2
+│       ├── articles_image_en.csv.bz2
+│       ├── articles_image_en.nt.bz2
+│       ├── articles_label_en.csv.bz2
+│       ├── articles_label_en.nt.bz2
+│       ├── articles_longabstract_en.csv.bz2
+│       ├── articles_longabstract_en.nt.bz2
+│       ├── articles_wikipage_en.csv.bz2
+│       ├── articles_wikipage_en.nt.bz2
+│       ├── categories_label_en.csv.bz2
+│       ├── categories_label_en.nt.bz2
+│       ├── categories_skos_en.csv.bz2
+│       ├── categories_skos_en.nt.bz2
+│       ├── disambiguation_en.csv.bz2
+│       ├── disambiguation_en.nt.bz2
+│       ├── geocoordinates_en.csv.bz2
+│       ├── geocoordinates_en.nt.bz2
+│       ├── homepages_en.csv.bz2
+│       ├── homepages_en.nt.bz2
+│       ├── infoboxes_en.csv.bz2
+│       ├── infoboxes_en.nt.bz2
+│       ├── infoboxesproperties_en.csv.bz2
+│       ├── infoboxesproperties_en.nt.bz2
+│       ├── links_bookmashup_en.nt.bz2
+│       ├── links_cyc_en.nt.bz2
+│       ├── links_dblp_en.nt.bz2
+│       ├── links_eurostat_en.nt.bz2
+│       ├── links_factbook_en.nt.bz2
+│       ├── links_geonames_en.nt.bz2
+│       ├── links_gutenberg_en.nt.bz2
+│       ├── links_musicbrainz_en.nt.bz2
+│       ├── links_quotationsbook_en.nt.bz2
+│       ├── links_revyu_en.nt.bz2
+│       ├── links_uscensus_en.nt.bz2
+│       ├── pagelinks_en.csv.bz2
+│       ├── pagelinks_en.nt.bz2
+│       ├── photoCollections_en.nt.bz2
+│       ├── redirect_en.csv.bz2
+│       ├── redirect_en.nt.bz2
+│       ├── wikicompany_links_en.nt.bz2
+│       ├── wordnet_classes_en.csv.bz2
+│       ├── wordnet_classes_en.nt.bz2
+│       ├── yago_classes_en.csv.bz2
+│       ├── yago_classes_en.nt.bz2
+│       └── yago-class-hierarchy_en.nt.bz2
+├── 3.1
+│   └── en
+│       ├── articlecategories_en.csv.bz2
+│       ├── articlecategories_en.nt.bz2
+│       ├── articles_label_en.csv.bz2
+│       ├── articles_label_en.nt.bz2
+│       ├── categories_label_en.csv.bz2
+│       ├── categories_label_en.nt.bz2
+│       ├── disambiguation_en.csv.bz2
+│       ├── disambiguation_en.nt.bz2
+│       ├── externallinks_en.csv.bz2
+│       ├── externallinks_en.nt.bz2
+│       ├── flickr_en.nt.bz2
+│       ├── geo_en.csv.bz2
+│       ├── geo_en.nt.bz2
+│       ├── homepage_en.csv.bz2
+│       ├── homepage_en.nt.bz2
+│       ├── image_en.csv.bz2
+│       ├── image_en.nt.bz2
+│       ├── infobox_en.csv.bz2
+│       ├── infobox_en.nt.bz2
+│       ├── infoboxproperties_en.csv.bz2
+│       ├── infoboxproperties_en.nt.bz2
+│       ├── links_bookmashup_en.nt.bz2
+│       ├── links_cyc_en.nt.bz2
+│       ├── links_dblp_en.nt.bz2
+│       ├── links_eurostat_en.nt.bz2
+│       ├── links_factbook_en.nt.bz2
+│       ├── links_geonames_en.nt.bz2
+│       ├── links_gutenberg_en.nt.bz2
+│       ├── links_musicbrainz_en.nt.bz2
+│       ├── links_quotationsbook_en.nt.bz2
+│       ├── links_revyu_en.nt.bz2
+│       ├── links_uscensus_en.nt.bz2
+│       ├── longabstract_en.csv.bz2
+│       ├── longabstract_en.nt.bz2
+│       ├── pagelinks_en.csv.bz2
+│       ├── pagelinks_en.nt.bz2
+│       ├── persondata_en.csv.bz2
+│       ├── persondata_en.nt.bz2
+│       ├── redirect_en.csv.bz2
+│       ├── redirect_en.nt.bz2
+│       ├── shortabstract_en.csv.bz2
+│       ├── shortabstract_en.nt.bz2
+│       ├── skoscategories_en.csv.bz2
+│       ├── skoscategories_en.nt.bz2
+│       ├── wikicompany_links_en.nt.bz2
+│       ├── wikipage_en.csv.bz2
+│       ├── wikipage_en.nt.bz2
+│       ├── wordnetlink_en.csv.bz2
+│       ├── wordnetlink_en.nt.bz2
+│       ├── yago_en.nt.bz2
+│       └── yagolink_en.nt.bz2
+├── 3.2
+│   ├── en
+│   │   ├── articlecategories_en.csv.bz2
+│   │   ├── articlecategories_en.nt.bz2
+│   │   ├── articles_label_en.csv.bz2
+│   │   ├── articles_label_en.nt.bz2
+│   │   ├── categories_label_en.csv.bz2
+│   │   ├── categories_label_en.nt.bz2
+│   │   ├── dbpedia-ontology.nt
+│   │   ├── dbpedia-ontology.owl
+│   │   ├── dbpedia-ontology.owl.bz2
+│   │   ├── disambiguation_en.csv.bz2
+│   │   ├── disambiguation_en.nt.bz2
+│   │   ├── externallinks_en.csv.bz2
+│   │   ├── externallinks_en.nt.bz2
+│   │   ├── geo_en.csv.bz2
+│   │   ├── geo_en.nt.bz2
+│   │   ├── homepage_en.csv.bz2
+│   │   ├── homepage_en.nt.bz2
+│   │   ├── image_en.csv.bz2
+│   │   ├── image_en.nt.bz2
+│   │   ├── infobox_en.csv.bz2
+│   │   ├── infobox_en.nt.bz2
+│   │   ├── infobox-mappingbased-loose.nt
+│   │   ├── infobox-mappingbased-loose.nt.bz2
+│   │   ├── infoboxproperties_en.csv.bz2
+│   │   ├── infoboxproperties_en.nt.bz2
+│   │   ├── longabstract_en.nt.bz2
+│   │   ├── pagelinks_en.csv.bz2
+│   │   ├── pagelinks_en.nt.bz2
+│   │   ├── persondata_en.csv.bz2
+│   │   ├── persondata_en.nt.bz2
+│   │   ├── redirect_en.csv.bz2
+│   │   ├── redirect_en.nt.bz2
+│   │   ├── shortabstract_en.nt.bz2
+│   │   ├── skoscategories_en.csv.bz2
+│   │   ├── skoscategories_en.nt.bz2
+│   │   ├── types-mappingbased.nt.bz2
+│   │   ├── wikipage_en.csv.bz2
+│   │   ├── wikipage_en.nt.bz2
+│   │   ├── yago_en.nt.bz2
+│   │   └── yagolink_en.nt.bz2
+│   └── links
+│       ├── dbpedia2cyc.nt.bz2
+│       ├── dbpedia2cyc.zip
+│       ├── flickr_en.nt.bz2
+│       ├── freebaselinks.zip
+│       ├── links_bookmashup_en.nt.bz2
+│       ├── links_dblp_en.nt.bz2
+│       ├── links_eurostat_en.nt.bz2
+│       ├── links_factbook_en.nt.bz2
+│       ├── links_geonames_en.nt.bz2
+│       ├── links_gutenberg_en.nt.bz2
+│       ├── links_musicbrainz_en.nt.bz2
+│       ├── links_quotationsbook_en.nt.bz2
+│       ├── links_revyu_en.nt.bz2
+│       ├── links_uscensus_en.nt.bz2
+│       ├── wikicompany_links_en.nt.bz2
+│       └── wordnetlink_en.nt.bz2
+├── 3.3
+│   ├── en
+│   │   ├── articlecategories_en.csv.bz2
+│   │   ├── articlecategories_en.nt.bz2
+│   │   ├── articles_label_en.csv.bz2
+│   │   ├── articles_label_en.nt.bz2
+│   │   ├── categories_label_en.csv.bz2
+│   │   ├── categories_label_en.nt.bz2
+│   │   ├── dbpedia-ontology.owl.bz2
+│   │   ├── disambiguation_en.csv.bz2
+│   │   ├── disambiguation_en.nt.bz2
+│   │   ├── externallinks_en.csv.bz2
+│   │   ├── externallinks_en.nt.bz2
+│   │   ├── geo_en.csv.bz2
+│   │   ├── geo_en.nt.bz2
+│   │   ├── homepage_en.csv.bz2
+│   │   ├── homepage_en.nt.bz2
+│   │   ├── image_en.csv.bz2
+│   │   ├── image_en.nt.bz2
+│   │   ├── infobox_en.csv.bz2
+│   │   ├── infobox_en.nt.bz2
+│   │   ├── infobox-mappingbased-loose.nt.bz2
+│   │   ├── infoboxproperties_en.csv.bz2
+│   │   ├── infoboxproperties_en.nt.bz2
+│   │   ├── instancetype_en.csv.bz2
+│   │   ├── instancetype_en.nt.bz2
+│   │   ├── longabstract_en.nt.bz2
+│   │   ├── pagelinks_en.csv.bz2
+│   │   ├── pagelinks_en.nt.bz2
+│   │   ├── persondata_en.csv.bz2
+│   │   ├── persondata_en.nt.bz2
+│   │   ├── redirect_en.csv.bz2
+│   │   ├── redirect_en.nt.bz2
+│   │   ├── shortabstract_en.nt.bz2
+│   │   ├── skoscategories_en.csv.bz2
+│   │   ├── skoscategories_en.nt.bz2
+│   │   ├── wikipage_en.csv.bz2
+│   │   ├── wikipage_en.nt.bz2
+│   │   ├── yago_en.nt.bz2
+│   │   └── yagolink_en.nt.bz2
+│   └── links
+│       ├── links_bookmashup_en.nt.bz2
+│       ├── links_dailymed_en.nt.bz2
+│       ├── links_dblp_en.nt.bz2
+│       ├── links_diseasome_en.nt.bz2
+│       ├── links_drugbank_wn.nt.bz2
+│       ├── links_eurostat_en.nt.bz2
+│       ├── links_factbook_en.nt.bz2
+│       ├── links_flickr_en.nt.bz2
+│       ├── links_freebase_en.ttl.bz2
+│       ├── links_geonames_en.nt.bz2
+│       ├── links_gutenberg_en.nt.bz2
+│       ├── links_musicbrainz_en.nt.bz2
+│       ├── links_opencyc_en.nt.bz2
+│       ├── links_revyu_en.nt.bz2
+│       ├── links_sider_en.nt.bz2
+│       ├── links_tcm_en.nt.bz2
+│       ├── links_uscensus_en.nt.bz2
+│       ├── links_wikicompany_en.nt.bz2
+│       ├── links_wordnet_en.nt.bz2
+│       ├── yago_en.nt.bz2
+│       └── yagolink_en.nt.bz2
+├── 3.4
+│   ├── en
+│   │   ├── articlecategories_en.csv.bz2
+│   │   ├── articlecategories_en.nt.bz2
+│   │   ├── articles_label_en.csv.bz2
+│   │   ├── articles_label_en.nt.bz2
+│   │   ├── categories_label_en.csv.bz2
+│   │   ├── categories_label_en.nt.bz2
+│   │   ├── disambiguation_en.csv.bz2
+│   │   ├── disambiguation_en.nt.bz2
+│   │   ├── externallinks_en.csv.bz2
+│   │   ├── externallinks_en.nt.bz2
+│   │   ├── geo_en.csv.bz2
+│   │   ├── geo_en.nt.bz2
+│   │   ├── homepage_en.csv.bz2
+│   │   ├── homepage_en.nt.bz2
+│   │   ├── image_en.csv.bz2
+│   │   ├── image_en.nt.bz2
+│   │   ├── infobox_en.csv.bz2
+│   │   ├── infobox_en.nt.bz2
+│   │   ├── infoboxproperties_en.csv.bz2
+│   │   ├── infoboxproperties_en.nt.bz2
+│   │   ├── input_files_en.csv.bz2
+│   │   ├── instancetype_en.csv.bz2
+│   │   ├── instancetype_en.nt.bz2
+│   │   ├── longabstract_en.csv.bz2
+│   │   ├── longabstract_en.nt.bz2
+│   │   ├── newstrictmappingbased_en.csv.bz2
+│   │   ├── newstrictmappingbased_en.nt.bz2
+│   │   ├── oldlenientmappingbased_en.csv.bz2
+│   │   ├── oldlenientmappingbased_en.nt.bz2
+│   │   ├── pagelinks_en.csv.bz2
+│   │   ├── pagelinks_en.nt.bz2
+│   │   ├── persondata_en.csv.bz2
+│   │   ├── persondata_en.nt.bz2
+│   │   ├── redirect_en.csv.bz2
+│   │   ├── redirect_en.nt.bz2
+│   │   ├── shortabstract_en.csv.bz2
+│   │   ├── shortabstract_en.nt.bz2
+│   │   ├── skoscategories_en.csv.bz2
+│   │   ├── skoscategories_en.nt.bz2
+│   │   ├── wikipage_en.csv.bz2
+│   │   └── wikipage_en.nt.bz2
+│   └── links
+│       ├── bookmashup_links.nt.bz2
+│       ├── dailymed_links.nt.bz2
+│       ├── dblp_links.nt.bz2
+│       ├── diseasome_links.nt.bz2
+│       ├── drugbank_links.nt.bz2
+│       ├── eurostat_links.nt.bz2
+│       ├── factbook_links.nt.bz2
+│       ├── flickr_links.nt.bz2
+│       ├── freebase_links.ttl.bz2
+│       ├── geonames_links.nt.bz2
+│       ├── gutenberg_links.nt.bz2
+│       ├── musicbrainz_links.nt.bz2
+│       ├── opencyc_links.nt.bz2
+│       ├── revyu_links.nt.bz2
+│       ├── sider_links.nt.bz2
+│       ├── tcm_links.nt.bz2
+│       ├── uscensus_links.nt.bz2
+│       ├── wikicompany_links.nt.bz2
+│       ├── wordnet_links.nt.bz2
+│       ├── yagoclasses_links.nt.bz2
+│       └── yago_links.nt.bz2
+├── 3.5
+│   ├── en
+│   │   ├── article_categories_en.nq.bz2
+│   │   ├── article_categories_en.nt.bz2
+│   │   ├── category_labels_en.nq.bz2
+│   │   ├── category_labels_en.nt.bz2
+│   │   ├── disambiguations_en.nq.bz2
+│   │   ├── disambiguations_en.nt.bz2
+│   │   ├── external_links_en.nq.bz2
+│   │   ├── external_links_en.nt.bz2
+│   │   ├── geo_coordinates_en.nq.bz2
+│   │   ├── geo_coordinates_en.nt.bz2
+│   │   ├── homepages_en.nq.bz2
+│   │   ├── homepages_en.nt.bz2
+│   │   ├── images_en.nq.bz2
+│   │   ├── images_en.nt.bz2
+│   │   ├── infobox_properties_en.nq.bz2
+│   │   ├── infobox_properties_en.nt.bz2
+│   │   ├── infobox_property_definitions_en.nq.bz2
+│   │   ├── infobox_property_definitions_en.nt.bz2
+│   │   ├── input_files_en.csv
+│   │   ├── instance_types_en.nq.bz2
+│   │   ├── instance_types_en.nt.bz2
+│   │   ├── labels_en.nq.bz2
+│   │   ├── labels_en.nt.bz2
+│   │   ├── long_abstracts_en.nq.bz2
+│   │   ├── long_abstracts_en.nt.bz2
+│   │   ├── mappingbased_properties_en.nq.bz2
+│   │   ├── mappingbased_properties_en.nt.bz2
+│   │   ├── page_ids_en.nq.bz2
+│   │   ├── page_ids_en.nt.bz2
+│   │   ├── page_links_en.nq.bz2
+│   │   ├── page_links_en.nt.bz2
+│   │   ├── persondata_en.nq.bz2
+│   │   ├── persondata_en.nt.bz2
+│   │   ├── pnd_en.nq.bz2
+│   │   ├── pnd_en.nt.bz2
+│   │   ├── redirects_en.nq.bz2
+│   │   ├── redirects_en.nt.bz2
+│   │   ├── revisions_en.nq.bz2
+│   │   ├── revisions_en.nt.bz2
+│   │   ├── short_abstracts_en.nq.bz2
+│   │   ├── short_abstracts_en.nt.bz2
+│   │   ├── skos_categories_en.nq.bz2
+│   │   ├── skos_categories_en.nt.bz2
+│   │   ├── specific_mappingbased_properties_en.nq.bz2
+│   │   ├── specific_mappingbased_properties_en.nt.bz2
+│   │   ├── wikipedia_links_en.nq.bz2
+│   │   └── wikipedia_links_en.nt.bz2
+│   └── links
+│       ├── bookmashup_links.nt.bz2
+│       ├── dailymed_links.nt.bz2
+│       ├── dblp_links.nt.bz2
+│       ├── diseasome_links.nt.bz2
+│       ├── drugbank_links.nt.bz2
+│       ├── eurostat_links.nt.bz2
+│       ├── factbook_links.nt.bz2
+│       ├── flickr_links.nt.bz2
+│       ├── freebase_links.ttl.bz2
+│       ├── geonames_links.nt.bz2
+│       ├── gutenberg_links.nt.bz2
+│       ├── musicbrainz_links.nt.bz2
+│       ├── nyt_links.nt.bz2
+│       ├── opencyc_links.nt.bz2
+│       ├── revyu_links.nt.bz2
+│       ├── sider_links.nt.bz2
+│       ├── tcm_links.nt.bz2
+│       ├── uscensus_links.nt.bz2
+│       ├── wikicompany_links.nt.bz2
+│       ├── wordnet_links.nt.bz2
+│       ├── yagoclasses_links.nt.bz2
+│       └── yago_links.nt.bz2
+├── 3.5.1
+│   ├── en
+│   │   ├── article_categories_en.nq.bz2
+│   │   ├── article_categories_en.nt.bz2
+│   │   ├── category_labels_en.nq.bz2
+│   │   ├── category_labels_en.nt.bz2
+│   │   ├── disambiguations_en.nq.bz2
+│   │   ├── disambiguations_en.nt.bz2
+│   │   ├── external_links_en.nq.bz2
+│   │   ├── external_links_en.nt.bz2
+│   │   ├── geo_coordinates_en.nq.bz2
+│   │   ├── geo_coordinates_en.nt.bz2
+│   │   ├── homepages_en.nq.bz2
+│   │   ├── homepages_en.nt.bz2
+│   │   ├── images_en.nq.bz2
+│   │   ├── images_en.nt.bz2
+│   │   ├── infobox_properties_en.nq.bz2
+│   │   ├── infobox_properties_en.nt.bz2
+│   │   ├── infobox_property_definitions_en.nq.bz2
+│   │   ├── infobox_property_definitions_en.nt.bz2
+│   │   ├── instance_types_en.nq.bz2
+│   │   ├── instance_types_en.nt.bz2
+│   │   ├── labels_en.nq.bz2
+│   │   ├── labels_en.nt.bz2
+│   │   ├── long_abstracts_en.nq.bz2
+│   │   ├── long_abstracts_en.nt.bz2
+│   │   ├── mappingbased_properties_en.nq.bz2
+│   │   ├── mappingbased_properties_en.nt.bz2
+│   │   ├── page_ids_en.nq.bz2
+│   │   ├── page_ids_en.nt.bz2
+│   │   ├── page_links_en.nq.bz2
+│   │   ├── page_links_en.nt.bz2
+│   │   ├── persondata_en.nq.bz2
+│   │   ├── persondata_en.nt.bz2
+│   │   ├── pnd_en.nq.bz2
+│   │   ├── pnd_en.nt.bz2
+│   │   ├── redirects_en.nq.bz2
+│   │   ├── redirects_en.nt.bz2
+│   │   ├── revisions_en.nq.bz2
+│   │   ├── revisions_en.nt.bz2
+│   │   ├── short_abstracts_en.nq.bz2
+│   │   ├── short_abstracts_en.nt.bz2
+│   │   ├── skos_categories_en.nq.bz2
+│   │   ├── skos_categories_en.nt.bz2
+│   │   ├── specific_mappingbased_properties_en.nq.bz2
+│   │   ├── specific_mappingbased_properties_en.nt.bz2
+│   │   ├── wikipedia_links_en.nq.bz2
+│   │   └── wikipedia_links_en.nt.bz2
+│   └── links
+│       ├── bookmashup_links.nt
+│       ├── bookmashup_links.nt.bz2
+│       ├── dailymed_links.nt
+│       ├── dailymed_links.nt.bz2
+│       ├── dblp_links.nt
+│       ├── dblp_links.nt.bz2
+│       ├── DBpedia-LGD.nt
+│       ├── DBpedia-LGD.nt.bz2
+│       ├── diseasome_links.nt
+│       ├── diseasome_links.nt.bz2
+│       ├── drugbank_links.nt
+│       ├── drugbank_links.nt.bz2
+│       ├── eurostat_links.nt
+│       ├── eurostat_links.nt.bz2
+│       ├── factbook_links.nt
+│       ├── factbook_links.nt.bz2
+│       ├── flickr_links.nt
+│       ├── flickr_links.nt.bz2
+│       ├── freebase_links.nt
+│       ├── freebase_links.nt.bz2
+│       ├── geonames_links.nt
+│       ├── geonames_links.nt.bz2
+│       ├── gutenberg_links.nt
+│       ├── gutenberg_links.nt.bz2
+│       ├── musicbrainz_links.nt
+│       ├── musicbrainz_links.nt.bz2
+│       ├── nyt_links.nt
+│       ├── nyt_links.nt.bz2
+│       ├── opencyc_links.nt
+│       ├── opencyc_links.nt.bz2
+│       ├── revyu_links.nt
+│       ├── revyu_links.nt.bz2
+│       ├── sider_links.nt
+│       ├── sider_links.nt.bz2
+│       ├── tcm_links.nt
+│       ├── tcm_links.nt.bz2
+│       ├── uscensus_links.nt
+│       ├── uscensus_links.nt.bz2
+│       ├── wikicompany_links.nt
+│       ├── wikicompany_links.nt.bz2
+│       ├── wordnet_links.nt
+│       ├── wordnet_links.nt.bz2
+│       ├── yagoclasses_links.nt
+│       ├── yagoclasses_links.nt.bz2
+│       ├── yago_links.nt
+│       └── yago_links.nt.bz2
+├── 3.6
+│   ├── dbpedia_3.6.owl.bz2
+│   ├── en
+│   │   ├── article_categories_en.nq.bz2
+│   │   ├── article_categories_en.nt.bz2
+│   │   ├── article_related_geo_countries_en.nt.bz2
+│   │   ├── category_labels_en.nq.bz2
+│   │   ├── category_labels_en.nt.bz2
+│   │   ├── disambiguations_en.nq.bz2
+│   │   ├── disambiguations_en.nt.bz2
+│   │   ├── external_links_en.nq.bz2
+│   │   ├── external_links_en.nt.bz2
+│   │   ├── geo_coordinates_en.nq.bz2
+│   │   ├── geo_coordinates_en.nt.bz2
+│   │   ├── homepages_en.nq.bz2
+│   │   ├── homepages_en.nt.bz2
+│   │   ├── images_en.nq.bz2
+│   │   ├── images_en.nt.bz2
+│   │   ├── infobox_properties_en.nq.bz2
+│   │   ├── infobox_properties_en.nt.bz2
+│   │   ├── infobox_property_definitions_en.nq.bz2
+│   │   ├── infobox_property_definitions_en.nt.bz2
+│   │   ├── instance_types_en.nq.bz2
+│   │   ├── instance_types_en.nt.bz2
+│   │   ├── labels_en.nq.bz2
+│   │   ├── labels_en.nt.bz2
+│   │   ├── long_abstracts_en.nq.bz2
+│   │   ├── long_abstracts_en.nt.bz2
+│   │   ├── mappingbased_properties_en.nq.bz2
+│   │   ├── mappingbased_properties_en.nt.bz2
+│   │   ├── page_ids_en.nq.bz2
+│   │   ├── page_ids_en.nt.bz2
+│   │   ├── page_links_en.nq.bz2
+│   │   ├── page_links_en.nt.bz2
+│   │   ├── persondata_en.nq.bz2
+│   │   ├── persondata_en.nt.bz2
+│   │   ├── pnd_en.nq.bz2
+│   │   ├── pnd_en.nt.bz2
+│   │   ├── redirects_en.nq.bz2
+│   │   ├── redirects_en.nt.bz2
+│   │   ├── revisions_en.nq.bz2
+│   │   ├── revisions_en.nt.bz2
+│   │   ├── short_abstracts_en.nq.bz2
+│   │   ├── short_abstracts_en.nt.bz2
+│   │   ├── skos_categories_en.nq.bz2
+│   │   ├── skos_categories_en.nt.bz2
+│   │   ├── specific_mappingbased_properties_en.nq.bz2
+│   │   ├── specific_mappingbased_properties_en.nt.bz2
+│   │   ├── wikipedia_links_en.nq.bz2
+│   │   └── wikipedia_links_en.nt.bz2
+│   └── links
+│       ├── bookmashup_links.nt.bz2
+│       ├── dailymed_links.nt.bz2
+│       ├── dblp_links.nt.bz2
+│       ├── DBpedia-LGD.nt.bz2
+│       ├── diseasome_links.nt.bz2
+│       ├── drugbank_links.nt.bz2
+│       ├── eurostat_links.nt.bz2
+│       ├── factbook_links.nt.bz2
+│       ├── flickr_links.nt.bz2
+│       ├── freebase_links.nt.bz2
+│       ├── geonames_links.nt.bz2
+│       ├── gutenberg_links.nt.bz2
+│       ├── musicbrainz_links.nt.bz2
+│       ├── nyt_links.nt.bz2
+│       ├── opencyc_links.nt.bz2
+│       ├── revyu_links.nt.bz2
+│       ├── sider_links.nt.bz2
+│       ├── tcm_links.nt.bz2
+│       ├── uscensus_links.nt.bz2
+│       ├── wikicompany_links.nt.bz2
+│       ├── wordnet_links.nt.bz2
+│       └── yago_links.nt.bz2
+├── 3.7
+│   ├── en
+│   │   ├── article_categories_en.nq.bz2
+│   │   ├── article_categories_en.nt.bz2
+│   │   ├── category_labels_en.nq.bz2
+│   │   ├── category_labels_en.nt.bz2
+│   │   ├── disambiguations_en.nq.bz2
+│   │   ├── disambiguations_en.nt.bz2
+│   │   ├── external_links_en.nq.bz2
+│   │   ├── external_links_en.nt.bz2
+│   │   ├── geo_coordinates_en.nq.bz2
+│   │   ├── geo_coordinates_en.nt.bz2
+│   │   ├── homepages_en.nq.bz2
+│   │   ├── homepages_en.nt.bz2
+│   │   ├── images_en.nq.bz2
+│   │   ├── images_en.nt.bz2
+│   │   ├── infobox_properties_en.nq.bz2
+│   │   ├── infobox_properties_en.nt.bz2
+│   │   ├── infobox_property_definitions_en.nq.bz2
+│   │   ├── infobox_property_definitions_en.nt.bz2
+│   │   ├── infobox_test_en.nq.bz2
+│   │   ├── infobox_test_en.nt.bz2
+│   │   ├── instance_types_en.nq.bz2
+│   │   ├── instance_types_en.nt.bz2
+│   │   ├── interlanguage_links_en.n3.bz2
+│   │   ├── labels_en.nq.bz2
+│   │   ├── labels_en.nt.bz2
+│   │   ├── long_abstracts_en.nq.bz2
+│   │   ├── long_abstracts_en.nt.bz2
+│   │   ├── mappingbased_properties_en.nq.bz2
+│   │   ├── mappingbased_properties_en.nt.bz2
+│   │   ├── page_ids_en.nq.bz2
+│   │   ├── page_ids_en.nt.bz2
+│   │   ├── page_links_en.nq.bz2
+│   │   ├── page_links_en.nt.bz2
+│   │   ├── persondata_en.nq.bz2
+│   │   ├── persondata_en.nt.bz2
+│   │   ├── pnd_en.nq.bz2
+│   │   ├── pnd_en.nt.bz2
+│   │   ├── redirects_en.nq.bz2
+│   │   ├── redirects_en.nt.bz2
+│   │   ├── revisions_en.nq.bz2
+│   │   ├── revisions_en.nt.bz2
+│   │   ├── short_abstracts_en.nq.bz2
+│   │   ├── short_abstracts_en.nt.bz2
+│   │   ├── skos_categories_en.nq.bz2
+│   │   ├── skos_categories_en.nt.bz2
+│   │   ├── specific_mappingbased_properties_en.nq.bz2
+│   │   ├── specific_mappingbased_properties_en.nt.bz2
+│   │   ├── wikipedia_links_en.nq.bz2
+│   │   └── wikipedia_links_en.nt.bz2
+│   └── links
+│       ├── bookmashup_links.nt.bz2
+│       ├── bricklink_links.nt.bz2
+│       ├── copyit.sh.bz2
+│       ├── dailymed_links.nt.bz2
+│       ├── dblp_links.nt.bz2
+│       ├── dbpedia_3.7.owl.bz2
+│       ├── DBpedia-LGD.nt.bz2
+│       ├── diseasome_links.nt.bz2
+│       ├── drugbank_links.nt.bz2
+│       ├── eunis_links.nt.bz2
+│       ├── eurostat_links.nt.bz2
+│       ├── factbook_links.nt.bz2
+│       ├── flickrwrapper_links.nt.bz2
+│       ├── freebase_links.nt.bz2
+│       ├── gadm_links.nt.bz2
+│       ├── geonames_links.nt.bz2
+│       ├── geospecis_links.nt.bz2
+│       ├── gutenberg_links.nt.bz2
+│       ├── italian-public-schools_links.nt.bz2
+│       ├── linkedmdb_links.nt.bz2
+│       ├── musicbrainz_links.nt.bz2
+│       ├── nytimes_links.nt.bz2
+│       ├── opencyc_links.nt.bz2
+│       ├── revyu_links.nt.bz2
+│       ├── sider_links.nt.bz2
+│       ├── tcm_links.nt.bz2
+│       ├── umbel_links.nt.bz2
+│       ├── uscensus_links.nt.bz2
+│       ├── wikicompany_links.nt.bz2
+│       ├── wordnet_links.nt.bz2
+│       └── yago_links.nt.bz2
+├── 3.8
+│   ├── en
+│   │   ├── article_categories_en.nq.bz2
+│   │   ├── article_categories_en.nt.bz2
+│   │   ├── article_categories_en.tql.bz2
+│   │   ├── article_categories_en.ttl.bz2
+│   │   ├── category_labels_en.nq.bz2
+│   │   ├── category_labels_en.nt.bz2
+│   │   ├── category_labels_en.tql.bz2
+│   │   ├── category_labels_en.ttl.bz2
+│   │   ├── contents-all.txt
+│   │   ├── contents-nq.txt
+│   │   ├── contents-nt.txt
+│   │   ├── contents-tql.txt
+│   │   ├── contents-ttl.txt
+│   │   ├── disambiguations_en.nq.bz2
+│   │   ├── disambiguations_en.nt.bz2
+│   │   ├── disambiguations_en.tql.bz2
+│   │   ├── disambiguations_en.ttl.bz2
+│   │   ├── disambiguations_unredirected_en.nq.bz2
+│   │   ├── disambiguations_unredirected_en.nt.bz2
+│   │   ├── disambiguations_unredirected_en.tql.bz2
+│   │   ├── disambiguations_unredirected_en.ttl.bz2
+│   │   ├── external_links_en.nq.bz2
+│   │   ├── external_links_en.nt.bz2
+│   │   ├── external_links_en.tql.bz2
+│   │   ├── external_links_en.ttl.bz2
+│   │   ├── geo_coordinates_en.nq.bz2
+│   │   ├── geo_coordinates_en.nt.bz2
+│   │   ├── geo_coordinates_en.tql.bz2
+│   │   ├── geo_coordinates_en.ttl.bz2
+│   │   ├── homepages_en.nq.bz2
+│   │   ├── homepages_en.nt.bz2
+│   │   ├── homepages_en.tql.bz2
+│   │   ├── homepages_en.ttl.bz2
+│   │   ├── images_en.nq.bz2
+│   │   ├── images_en.nt.bz2
+│   │   ├── images_en.tql.bz2
+│   │   ├── images_en.ttl.bz2
+│   │   ├── infobox_properties_en.nq.bz2
+│   │   ├── infobox_properties_en.nt.bz2
+│   │   ├── infobox_properties_en.tql.bz2
+│   │   ├── infobox_properties_en.ttl.bz2
+│   │   ├── infobox_properties_unredirected_en.nq.bz2
+│   │   ├── infobox_properties_unredirected_en.nt.bz2
+│   │   ├── infobox_properties_unredirected_en.tql.bz2
+│   │   ├── infobox_properties_unredirected_en.ttl.bz2
+│   │   ├── infobox_property_definitions_en.nq.bz2
+│   │   ├── infobox_property_definitions_en.nt.bz2
+│   │   ├── infobox_property_definitions_en.tql.bz2
+│   │   ├── infobox_property_definitions_en.ttl.bz2
+│   │   ├── infobox_test_en.nq.bz2
+│   │   ├── infobox_test_en.nt.bz2
+│   │   ├── infobox_test_en.tql.bz2
+│   │   ├── infobox_test_en.ttl.bz2
+│   │   ├── instance_types_en.nq.bz2
+│   │   ├── instance_types_en.nt.bz2
+│   │   ├── instance_types_en.tql.bz2
+│   │   ├── instance_types_en.ttl.bz2
+│   │   ├── interlanguage_links_en.nq.bz2
+│   │   ├── interlanguage_links_en.nt.bz2
+│   │   ├── interlanguage_links_en.tql.bz2
+│   │   ├── interlanguage_links_en.ttl.bz2
+│   │   ├── interlanguage_links_same_as_chapters_en.nt.bz2
+│   │   ├── interlanguage_links_same_as_chapters_en.ttl.bz2
+│   │   ├── interlanguage_links_same_as_en.nt.bz2
+│   │   ├── interlanguage_links_same_as_en.ttl.bz2
+│   │   ├── interlanguage_links_see_also_chapters_en.nt.bz2
+│   │   ├── interlanguage_links_see_also_chapters_en.ttl.bz2
+│   │   ├── interlanguage_links_see_also_en.nt.bz2
+│   │   ├── interlanguage_links_see_also_en.ttl.bz2
+│   │   ├── iri_same_as_uri_en.nq.bz2
+│   │   ├── iri_same_as_uri_en.nt.bz2
+│   │   ├── iri_same_as_uri_en.tql.bz2
+│   │   ├── iri_same_as_uri_en.ttl.bz2
+│   │   ├── labels_en.nq.bz2
+│   │   ├── labels_en.nt.bz2
+│   │   ├── labels_en.tql.bz2
+│   │   ├── labels_en.ttl.bz2
+│   │   ├── long_abstracts_en.nq.bz2
+│   │   ├── long_abstracts_en.nt.bz2
+│   │   ├── long_abstracts_en.tql.bz2
+│   │   ├── long_abstracts_en.ttl.bz2
+│   │   ├── mappingbased_properties_en.nq.bz2
+│   │   ├── mappingbased_properties_en.nt.bz2
+│   │   ├── mappingbased_properties_en.tql.bz2
+│   │   ├── mappingbased_properties_en.ttl.bz2
+│   │   ├── mappingbased_properties_unredirected_en.nq.bz2
+│   │   ├── mappingbased_properties_unredirected_en.nt.bz2
+│   │   ├── mappingbased_properties_unredirected_en.tql.bz2
+│   │   ├── mappingbased_properties_unredirected_en.ttl.bz2
+│   │   ├── page_ids_en.nq.bz2
+│   │   ├── page_ids_en.nt.bz2
+│   │   ├── page_ids_en.tql.bz2
+│   │   ├── page_ids_en.ttl.bz2
+│   │   ├── page_links_en.nq.bz2
+│   │   ├── page_links_en.nt.bz2
+│   │   ├── page_links_en.tql.bz2
+│   │   ├── page_links_en.ttl.bz2
+│   │   ├── page_links_unredirected_en.nq.bz2
+│   │   ├── page_links_unredirected_en.nt.bz2
+│   │   ├── page_links_unredirected_en.tql.bz2
+│   │   ├── page_links_unredirected_en.ttl.bz2
+│   │   ├── persondata_en.nq.bz2
+│   │   ├── persondata_en.nt.bz2
+│   │   ├── persondata_en.tql.bz2
+│   │   ├── persondata_en.ttl.bz2
+│   │   ├── persondata_unredirected_en.nq.bz2
+│   │   ├── persondata_unredirected_en.nt.bz2
+│   │   ├── persondata_unredirected_en.tql.bz2
+│   │   ├── persondata_unredirected_en.ttl.bz2
+│   │   ├── pnd_en.nq.bz2
+│   │   ├── pnd_en.nt.bz2
+│   │   ├── pnd_en.tql.bz2
+│   │   ├── pnd_en.ttl.bz2
+│   │   ├── redirects_en.nq.bz2
+│   │   ├── redirects_en.nt.bz2
+│   │   ├── redirects_en.tql.bz2
+│   │   ├── redirects_en.ttl.bz2
+│   │   ├── redirects_transitive_en.nt.bz2
+│   │   ├── redirects_transitive_en.ttl.bz2
+│   │   ├── revision_ids_en.nq.bz2
+│   │   ├── revision_ids_en.nt.bz2
+│   │   ├── revision_ids_en.tql.bz2
+│   │   ├── revision_ids_en.ttl.bz2
+│   │   ├── revision_uris_en.nq.bz2
+│   │   ├── revision_uris_en.nt.bz2
+│   │   ├── revision_uris_en.tql.bz2
+│   │   ├── revision_uris_en.ttl.bz2
+│   │   ├── short_abstracts_en.nq.bz2
+│   │   ├── short_abstracts_en.nt.bz2
+│   │   ├── short_abstracts_en.tql.bz2
+│   │   ├── short_abstracts_en.ttl.bz2
+│   │   ├── skos_categories_en.nq.bz2
+│   │   ├── skos_categories_en.nt.bz2
+│   │   ├── skos_categories_en.tql.bz2
+│   │   ├── skos_categories_en.ttl.bz2
+│   │   ├── specific_mappingbased_properties_en.nq.bz2
+│   │   ├── specific_mappingbased_properties_en.nt.bz2
+│   │   ├── specific_mappingbased_properties_en.tql.bz2
+│   │   ├── specific_mappingbased_properties_en.ttl.bz2
+│   │   ├── topical_concepts_en.nq.bz2
+│   │   ├── topical_concepts_en.nt.bz2
+│   │   ├── topical_concepts_en.tql.bz2
+│   │   ├── topical_concepts_en.ttl.bz2
+│   │   ├── topical_concepts_unredirected_en.nq.bz2
+│   │   ├── topical_concepts_unredirected_en.nt.bz2
+│   │   ├── topical_concepts_unredirected_en.tql.bz2
+│   │   ├── topical_concepts_unredirected_en.ttl.bz2
+│   │   ├── wikipedia_links_en.nq.bz2
+│   │   ├── wikipedia_links_en.nt.bz2
+│   │   ├── wikipedia_links_en.tql.bz2
+│   │   └── wikipedia_links_en.ttl.bz2
+│   └── links
+│       ├── amsterdammuseum_links.nt.bz2
+│       ├── bbcwildlife_links.nt.bz2
+│       ├── bookmashup_links.nt.bz2
+│       ├── bricklink_links.nt.bz2
+│       ├── contents-all.txt
+│       ├── contents-nq.txt
+│       ├── contents-nt.txt
+│       ├── contents-tql.txt
+│       ├── contents-ttl.txt
+│       ├── cordis_links.nt.bz2
+│       ├── dailymed_links.nt.bz2
+│       ├── dblp_links.nt.bz2
+│       ├── dbtune_links.nt.bz2
+│       ├── diseasome_links.nt.bz2
+│       ├── drugbank_links.nt.bz2
+│       ├── eunis_links.nt.bz2
+│       ├── eurostat_linkedstatistics_links.nt.bz2
+│       ├── eurostat_wbsg_links.nt.bz2
+│       ├── factbook_links.nt.bz2
+│       ├── flickrwrappr_links.nt.bz2
+│       ├── freebase_links.nt.bz2
+│       ├── gadm_links.nt.bz2
+│       ├── geonames_links.nt.bz2
+│       ├── geospecies_links.nt.bz2
+│       ├── gho_links.nt.bz2
+│       ├── gutenberg_links.nt.bz2
+│       ├── italian_public_schools_links.nt.bz2
+│       ├── linkedgeodata_links.nt.bz2
+│       ├── linkedmdb_links.nt.bz2
+│       ├── musicbrainz_links.nt.bz2
+│       ├── nytimes_links.nt.bz2
+│       ├── opencyc_links.nt.bz2
+│       ├── openei_links.nt.bz2
+│       ├── revyu_links.nt.bz2
+│       ├── sider_links.nt.bz2
+│       ├── tcm_links.nt.bz2
+│       ├── umbel_links.nt.bz2
+│       ├── uscensus_links.nt.bz2
+│       ├── wikicompany_links.nt.bz2
+│       ├── wordnet_links.nt.bz2
+│       └── yago_links.nt.bz2
+└── 3.9
+    ├── en
+    │   ├── article_categories_en.nq.bz2
+    │   ├── article_categories_en.nt.bz2
+    │   ├── article_categories_en.tql.bz2
+    │   ├── article_categories_en.ttl.bz2
+    │   ├── article_templates_en.nq.bz2
+    │   ├── article_templates_en.nt.bz2
+    │   ├── article_templates_en.tql.bz2
+    │   ├── article_templates_en.ttl.bz2
+    │   ├── category_labels_en.nq.bz2
+    │   ├── category_labels_en.nt.bz2
+    │   ├── category_labels_en.tql.bz2
+    │   ├── category_labels_en.ttl.bz2
+    │   ├── disambiguations_en.nq.bz2
+    │   ├── disambiguations_en.nt.bz2
+    │   ├── disambiguations_en.tql.bz2
+    │   ├── disambiguations_en.ttl.bz2
+    │   ├── disambiguations_unredirected_en.nq.bz2
+    │   ├── disambiguations_unredirected_en.nt.bz2
+    │   ├── disambiguations_unredirected_en.tql.bz2
+    │   ├── disambiguations_unredirected_en.ttl.bz2
+    │   ├── external_links_en.nq.bz2
+    │   ├── external_links_en.nt.bz2
+    │   ├── external_links_en.tql.bz2
+    │   ├── external_links_en.ttl.bz2
+    │   ├── flickrwrappr_links_en.nt.bz2
+    │   ├── flickrwrappr_links_en.ttl.bz2
+    │   ├── freebase_links_en.nt.bz2
+    │   ├── freebase_links_en.ttl.bz2
+    │   ├── geo_coordinates_en.nq.bz2
+    │   ├── geo_coordinates_en.nt.bz2
+    │   ├── geo_coordinates_en.tql.bz2
+    │   ├── geo_coordinates_en.ttl.bz2
+    │   ├── geonames_links_en.nt.bz2
+    │   ├── geonames_links_en.ttl.bz2
+    │   ├── homepages_en.nq.bz2
+    │   ├── homepages_en.nt.bz2
+    │   ├── homepages_en.tql.bz2
+    │   ├── homepages_en.ttl.bz2
+    │   ├── images_en.nq.bz2
+    │   ├── images_en.nt.bz2
+    │   ├── images_en.tql.bz2
+    │   ├── images_en.ttl.bz2
+    │   ├── instance_types_en.nq.bz2
+    │   ├── instance_types_en.nt.bz2
+    │   ├── instance_types_en.tql.bz2
+    │   ├── instance_types_en.ttl.bz2
+    │   ├── instance_types_heuristic_en.nt.bz2
+    │   ├── instance_types_heuristic_en.ttl.bz2
+    │   ├── interlanguage_links_chapters_en.nq.bz2
+    │   ├── interlanguage_links_chapters_en.nt.bz2
+    │   ├── interlanguage_links_chapters_en.tql.bz2
+    │   ├── interlanguage_links_chapters_en.ttl.bz2
+    │   ├── interlanguage_links_en.nq.bz2
+    │   ├── interlanguage_links_en.nt.bz2
+    │   ├── interlanguage_links_en.tql.bz2
+    │   ├── interlanguage_links_en.ttl.bz2
+    │   ├── iri_same_as_uri_en.nt.bz2
+    │   ├── iri_same_as_uri_en.ttl.bz2
+    │   ├── labels_en.nq.bz2
+    │   ├── labels_en.nt.bz2
+    │   ├── labels_en.tql.bz2
+    │   ├── labels_en.ttl.bz2
+    │   ├── long_abstracts_en.nq.bz2
+    │   ├── long_abstracts_en.nt.bz2
+    │   ├── long_abstracts_en.tql.bz2
+    │   ├── long_abstracts_en.ttl.bz2
+    │   ├── mappingbased_properties_cleaned_en.nq.bz2
+    │   ├── mappingbased_properties_cleaned_en.nt.bz2
+    │   ├── mappingbased_properties_cleaned_en.tql.bz2
+    │   ├── mappingbased_properties_cleaned_en.ttl.bz2
+    │   ├── mappingbased_properties_en.nq.bz2
+    │   ├── mappingbased_properties_en.nt.bz2
+    │   ├── mappingbased_properties_en.tql.bz2
+    │   ├── mappingbased_properties_en.ttl.bz2
+    │   ├── mappingbased_properties_unredirected_en.nq.bz2
+    │   ├── mappingbased_properties_unredirected_en.nt.bz2
+    │   ├── mappingbased_properties_unredirected_en.tql.bz2
+    │   ├── mappingbased_properties_unredirected_en.ttl.bz2
+    │   ├── old_interlanguage_links_en.nq.bz2
+    │   ├── old_interlanguage_links_en.nt.bz2
+    │   ├── old_interlanguage_links_en.tql.bz2
+    │   ├── old_interlanguage_links_en.ttl.bz2
+    │   ├── old_interlanguage_links_same_as_chapters_en.nt.bz2
+    │   ├── old_interlanguage_links_same_as_chapters_en.ttl.bz2
+    │   ├── old_interlanguage_links_same_as_en.nt.bz2
+    │   ├── old_interlanguage_links_same_as_en.ttl.bz2
+    │   ├── old_interlanguage_links_see_also_chapters_en.nt.bz2
+    │   ├── old_interlanguage_links_see_also_chapters_en.ttl.bz2
+    │   ├── old_interlanguage_links_see_also_en.nt.bz2
+    │   ├── old_interlanguage_links_see_also_en.ttl.bz2
+    │   ├── page_ids_en.nq.bz2
+    │   ├── page_ids_en.nt.bz2
+    │   ├── page_ids_en.tql.bz2
+    │   ├── page_ids_en.ttl.bz2
+    │   ├── page_in_link_counts_en.nt.bz2
+    │   ├── page_in_link_counts_en.ttl.bz2
+    │   ├── page_links_en.nq.bz2
+    │   ├── page_links_en.nt.bz2
+    │   ├── page_links_en.tql.bz2
+    │   ├── page_links_en.ttl.bz2
+    │   ├── page_links_unredirected_en.nq.bz2
+    │   ├── page_links_unredirected_en.nt.bz2
+    │   ├── page_links_unredirected_en.tql.bz2
+    │   ├── page_links_unredirected_en.ttl.bz2
+    │   ├── page_out_link_counts_en.nt.bz2
+    │   ├── page_out_link_counts_en.ttl.bz2
+    │   ├── persondata_en.nq.bz2
+    │   ├── persondata_en.nt.bz2
+    │   ├── persondata_en.tql.bz2
+    │   ├── persondata_en.ttl.bz2
+    │   ├── persondata_unredirected_en.nq.bz2
+    │   ├── persondata_unredirected_en.nt.bz2
+    │   ├── persondata_unredirected_en.tql.bz2
+    │   ├── persondata_unredirected_en.ttl.bz2
+    │   ├── pnd_en.nq.bz2
+    │   ├── pnd_en.nt.bz2
+    │   ├── pnd_en.tql.bz2
+    │   ├── pnd_en.ttl.bz2
+    │   ├── raw_infobox_properties_en.nq.bz2
+    │   ├── raw_infobox_properties_en.nt.bz2
+    │   ├── raw_infobox_properties_en.tql.bz2
+    │   ├── raw_infobox_properties_en.ttl.bz2
+    │   ├── raw_infobox_properties_unredirected_en.nq.bz2
+    │   ├── raw_infobox_properties_unredirected_en.nt.bz2
+    │   ├── raw_infobox_properties_unredirected_en.tql.bz2
+    │   ├── raw_infobox_properties_unredirected_en.ttl.bz2
+    │   ├── raw_infobox_property_definitions_en.nq.bz2
+    │   ├── raw_infobox_property_definitions_en.nt.bz2
+    │   ├── raw_infobox_property_definitions_en.tql.bz2
+    │   ├── raw_infobox_property_definitions_en.ttl.bz2
+    │   ├── redirects_en.nq.bz2
+    │   ├── redirects_en.nt.bz2
+    │   ├── redirects_en.tql.bz2
+    │   ├── redirects_en.ttl.bz2
+    │   ├── redirects_transitive_en.nt.bz2
+    │   ├── redirects_transitive_en.ttl.bz2
+    │   ├── revision_ids_en.nq.bz2
+    │   ├── revision_ids_en.nt.bz2
+    │   ├── revision_ids_en.tql.bz2
+    │   ├── revision_ids_en.ttl.bz2
+    │   ├── revision_uris_en.nq.bz2
+    │   ├── revision_uris_en.nt.bz2
+    │   ├── revision_uris_en.tql.bz2
+    │   ├── revision_uris_en.ttl.bz2
+    │   ├── short_abstracts_en.nq.bz2
+    │   ├── short_abstracts_en.nt.bz2
+    │   ├── short_abstracts_en.tql.bz2
+    │   ├── short_abstracts_en.ttl.bz2
+    │   ├── skos_categories_en.nq.bz2
+    │   ├── skos_categories_en.nt.bz2
+    │   ├── skos_categories_en.tql.bz2
+    │   ├── skos_categories_en.ttl.bz2
+    │   ├── specific_mappingbased_properties_en.nq.bz2
+    │   ├── specific_mappingbased_properties_en.nt.bz2
+    │   ├── specific_mappingbased_properties_en.tql.bz2
+    │   ├── specific_mappingbased_properties_en.ttl.bz2
+    │   ├── template_parameters_en.ttl.bz2
+    │   ├── topical_concepts_en.nq.bz2
+    │   ├── topical_concepts_en.nt.bz2
+    │   ├── topical_concepts_en.tql.bz2
+    │   ├── topical_concepts_en.ttl.bz2
+    │   ├── topical_concepts_unredirected_en.nq.bz2
+    │   ├── topical_concepts_unredirected_en.nt.bz2
+    │   ├── topical_concepts_unredirected_en.tql.bz2
+    │   ├── topical_concepts_unredirected_en.ttl.bz2
+    │   ├── wikipedia_links_en.nq.bz2
+    │   ├── wikipedia_links_en.nt.bz2
+    │   ├── wikipedia_links_en.tql.bz2
+    │   └── wikipedia_links_en.ttl.bz2
+    └── links
+        ├── amsterdammuseum_links.nt.bz2
+        ├── bbcwildlife_links.nt.bz2
+        ├── bookmashup_links.nt.bz2
+        ├── bricklink_links.nt.bz2
+        ├── cordis_links.nt.bz2
+        ├── dailymed_links.nt.bz2
+        ├── dblp_links.nt.bz2
+        ├── dbtune_links.nt.bz2
+        ├── diseasome_links.nt.bz2
+        ├── drugbank_links.nt.bz2
+        ├── eunis_links.nt.bz2
+        ├── eurostat_linkedstatistics_links.nt.bz2
+        ├── eurostat_wbsg_links.nt.bz2
+        ├── factbook_links.nt.bz2
+        ├── flickrwrappr_links.nt.bz2
+        ├── freebase_links.nt.bz2
+        ├── gadm_links.nt.bz2
+        ├── geonames_links.nt.bz2
+        ├── geonames_links.ttl.bz2
+        ├── geospecies_links.nt.bz2
+        ├── gho_links.nt.bz2
+        ├── gutenberg_links.nt.bz2
+        ├── italian_public_schools_links.nt.bz2
+        ├── linkedgeodata_links.nt.bz2
+        ├── linkedmdb_links.nt.bz2
+        ├── musicbrainz_links.nt.bz2
+        ├── nytimes_links.nt.bz2
+        ├── opencyc_links.nt.bz2
+        ├── openei_links.nt.bz2
+        ├── revyu_links.nt.bz2
+        ├── sider_links.nt.bz2
+        ├── tcm_links.nt.bz2
+        ├── umbel_links.nt.bz2
+        ├── uscensus_links.nt.bz2
+        ├── wikicompany_links.nt.bz2
+        ├── wordnet_links.nt.bz2
+        ├── yago_links.nt.bz2
+        ├── yago_links.ttl.bz2
+        ├── yago_taxonomy.nt.bz2
+        ├── yago_taxonomy.ttl.bz2
+        ├── yago_type_links.nt.bz2
+        ├── yago_type_links.ttl.bz2
+        ├── yago_types.nt.bz2
+        └── yago_types.ttl.bz2

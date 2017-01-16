@@ -1,0 +1,324 @@
+{
+    "order": [
+            "1.0",
+            "2.0",
+            "3.0rc",
+            "3.0",
+            "3.1",
+            "3.2",
+            "3.3",
+            "3.4",
+            "3.5",
+            "3.5.1",
+            "3.6",
+            "3.7",
+            "3.8",
+            "3.9",
+            "2014",
+            "2015-04",
+            "2015-10",
+            "2016-04"
+        ],
+    "version": [{
+            "id": "1.0",
+            "dir": "1.0/",
+            "files": [
+                "infoboxes.nt",
+                "articles_title_en.nt",
+                "articles_category.nt",
+                "articles_image.nt",
+                "articles_wikipage_en.nt",
+                "category.nt",
+                "cities.nt",
+                "persons.nt"
+            ]
+        }, {
+            "id": "2.0",
+            "dir": "2.0/",
+            "files": [
+                "articles_category.nt.bz2",
+                "articles_image.nt.bz2",
+                "articles_label_en.nt.bz2",
+                "categories_label.nt.bz2",
+                "categories_skos.nt.bz2",
+                "disambiguations.nt.bz2",
+                "infoboxes.nt.bz2",
+                "redirects.nt.bz2",
+                "persons.nt.bz2"
+            ]
+        }, {
+            "id": "3.0rc",
+            "dir": "3.0rc/",
+            "files": [
+                "en/articles_category_en.nt.bz2",
+                "en/articles_image_en.nt.bz2",
+                "en/articles_label_en.nt.bz2",
+                "en/articles_wikipage_en.nt.bz2",
+                "en/categories_label_en.nt.bz2",
+                "en/categories_skos_en.nt.bz2",
+                "en/disambiguation_en.nt.bz2",
+                "en/infoboxes_en.nt.bz2",
+                "en/redirect_en.nt.bz2"
+            ]
+        }, {
+            "id": "3.0",
+            "dir": "3.0/",
+            "files": [
+                "en/articlecategories_en.nt.bz2",
+                "en/articles_label_en.nt.bz2",
+                "en/categories_label_en.nt.bz2",
+                "en/disambiguation_en.nt.bz2",
+                "en/image_en.nt.bz2",
+                "en/infobox_en.nt.bz2",
+                "en/redirect_en.nt.bz2",
+                "en/skoscategories_en.nt.bz2"
+            ]
+        }, {
+            "id": "3.1",
+            "dir": "3.1/",
+            "files": [
+                "en/articlecategories_en.nt.bz2",
+                "en/articles_label_en.nt.bz2",
+                "en/categories_label_en.nt.bz2",
+                "en/disambiguation_en.nt.bz2",
+                "en/image_en.nt.bz2",
+                "en/infobox_en.nt.bz2",
+                "en/persondata_en.nt.bz2",
+                "en/redirect_en.nt.bz2",
+                "en/skoscategories_en.nt.bz2"
+            ]
+        }, {
+            "id": "3.2",
+            "dir": "3.2/",
+            "files": [
+                "en/articlecategories_en.nt.bz2",
+                "en/articles_label_en.nt.bz2",
+                "en/categories_label_en.nt.bz2",
+                "en/disambiguation_en.nt.bz2",
+                "en/image_en.nt.bz2",
+                "en/infobox_en.nt.bz2",
+                "en/infobox-mappingbased-loose.nt.bz2",
+                "en/persondata_en.nt.bz2",
+                "en/redirect_en.nt.bz2",
+                "en/skoscategories_en.nt.bz2",
+                "en/types-mappingbased.nt.bz2"
+            ]
+        }, {
+            "id": "3.3",
+            "dir": "3.3/",
+            "files": [
+                "en/articlecategories_en.nt.bz2",
+                "en/articles_label_en.nt.bz2",
+                "en/categories_label_en.nt.bz2",
+                "en/disambiguation_en.nt.bz2",
+                "en/image_en.nt.bz2",
+                "en/infobox_en.nt.bz2",
+                "en/infobox-mappingbased-loose.nt.bz2",
+                "en/instancetype_en.nt.bz2",
+                "en/persondata_en.nt.bz2",
+                "en/redirect_en.nt.bz2",
+                "en/skoscategories_en.nt.bz2"
+            ]
+        }, {
+            "id": "3.4",
+            "dir": "3.4/",
+            "files": [
+                "en/articlecategories_en.nt.bz2",
+                "en/articles_label_en.nt.bz2",
+                "en/categories_label_en.nt.bz2",
+                "en/disambiguation_en.nt.bz2",
+                "en/image_en.nt.bz2",
+                "en/infobox_en.nt.bz2",
+                "en/instancetype_en.nt.bz2",
+                "en/oldlenientmappingbased_en.nt.bz2",
+                "en/persondata_en.nt.bz2",
+                "en/redirect_en.nt.bz2",
+                "en/skoscategories_en.nt.bz2"
+            ]
+        }, {
+            "id": "3.5",
+            "dir": "3.5/",
+            "files": [
+                "en/article_categories_en.nt.bz2",
+                "en/category_labels_en.nt.bz2",
+                "en/disambiguations_en.nt.bz2",
+                "en/images_en.nt.bz2",
+                "en/infobox_properties_en.nt.bz2",
+                "en/instance_types_en.nt.bz2",
+                "en/labels_en.nt.bz2",
+                "en/mappingbased_properties_en.nt.bz2",
+                "en/persondata_en.nt.bz2",
+                "en/redirects_en.nt.bz2",
+                "en/skos_categories_en.nt.bz2",
+                "en/specific_mappingbased_properties_en.nt.bz2"
+            ]
+        }, {
+            "id": "3.5.1",
+            "dir": "3.5.1/",
+            "files": [
+                "en/article_categories_en.nt.bz2",
+                "en/category_labels_en.nt.bz2",
+                "en/disambiguations_en.nt.bz2",
+                "en/images_en.nt.bz2",
+                "en/infobox_properties_en.nt.bz2",
+                "en/instance_types_en.nt.bz2",
+                "en/labels_en.nt.bz2",
+                "en/mappingbased_properties_en.nt.bz2",
+                "en/persondata_en.nt.bz2",
+                "en/redirects_en.nt.bz2",
+                "en/skos_categories_en.nt.bz2",
+                "en/specific_mappingbased_properties_en.nt.bz2"
+            ]
+        }, {
+            "id": "3.6",
+            "dir": "3.6/",
+            "files": [
+                "en/article_categories_en.nt.bz2",
+                "en/category_labels_en.nt.bz2",
+                "en/disambiguations_en.nt.bz2",
+                "en/images_en.nt.bz2",
+                "en/infobox_properties_en.nt.bz2",
+                "en/instance_types_en.nt.bz2",
+                "en/labels_en.nt.bz2",
+                "en/mappingbased_properties_en.nt.bz2",
+                "en/persondata_en.nt.bz2",
+                "en/redirects_en.nt.bz2",
+                "en/skos_categories_en.nt.bz2",
+                "en/specific_mappingbased_properties_en.nt.bz2"
+            ]
+        }, {
+            "id": "3.7",
+            "dir": "3.7/",
+            "files": [
+                "en/article_categories_en.nt.bz2",
+                "en/category_labels_en.nt.bz2",
+                "en/disambiguations_en.nt.bz2",
+                "en/images_en.nt.bz2",
+                "en/infobox_properties_en.nt.bz2",
+                "en/instance_types_en.nt.bz2",
+                "en/labels_en.nt.bz2",
+                "en/mappingbased_properties_en.nt.bz2",
+                "en/persondata_en.nt.bz2",
+                "en/redirects_en.nt.bz2",
+                "en/skos_categories_en.nt.bz2",
+                "en/specific_mappingbased_properties_en.nt.bz2"
+            ]
+        }, {
+            "id": "3.8",
+            "dir": "3.8/",
+            "files": [
+                "en/article_categories_en.nt.bz2",
+                "en/category_labels_en.nt.bz2",
+                "en/disambiguations_en.nt.bz2",
+                "en/images_en.nt.bz2",
+                "en/infobox_properties_en.nt.bz2",
+                "en/instance_types_en.nt.bz2",
+                "en/iri_same_as_uri_en.nt.bz2",
+                "en/labels_en.nt.bz2",
+                "en/mappingbased_properties_en.nt.bz2",
+                "en/persondata_en.nt.bz2",
+                "en/redirects_transitive_en.nt.bz2",
+                "en/skos_categories_en.nt.bz2",
+                "en/specific_mappingbased_properties_en.nt.bz2"
+            ]
+        }, {
+            "id": "3.9",
+            "dir": "3.9/",
+            "files": [
+                "en/article_categories_en.nt.bz2",
+                "en/category_labels_en.nt.bz2",
+                "en/disambiguations_en.nt.bz2",
+                "en/images_en.nt.bz2",
+                "en/instance_types_en.nt.bz2",
+                "en/instance_types_heuristic_en.nt.bz2",
+                "en/iri_same_as_uri_en.nt.bz2",
+                "en/labels_en.nt.bz2",
+                "en/mappingbased_properties_cleaned_en.nt.bz2",
+                "en/persondata_en.nt.bz2",
+                "en/raw_infobox_properties_en.nt.bz2",
+                "en/redirects_transitive_en.nt.bz2",
+                "en/skos_categories_en.nt.bz2",
+                "en/specific_mappingbased_properties_en.nt.bz2"
+            ]
+        }, {
+            "id": "2014",
+            "dir": "2014/",
+            "files": [
+                "en/article_categories_en.nt.bz2",
+                "en/category_labels_en.nt.bz2",
+                "en/disambiguations_en.nt.bz2",
+                "en/images_en.nt.bz2",
+                "en/infobox_properties_en.nt.bz2",
+                "en/instance_types_en.nt.bz2",
+                "en/instance_types_heuristic_en.nt.bz2",
+                "en/iri_same_as_uri_en.nt.bz2",
+                "en/labels_en.nt.bz2",
+                "en/mappingbased_properties_cleaned_en.nt.bz2",
+                "en/persondata_en.nt.bz2",
+                "en/redirects_transitive_en.nt.bz2",
+                "en/skos_categories_en.nt.bz2",
+                "en/specific_mappingbased_properties_en.nt.bz2"
+            ]
+        }, {
+            "id": "2015-04",
+            "dir": "2015-04/",
+            "files": [
+                "core/article-categories_en.nt.bz2",
+                "core/category-labels_en.nt.bz2",
+                "core/disambiguations_en.nt.bz2",
+                "core/images_en.nt.bz2",
+                "core/infobox-properties_en.nt.bz2",
+                "core/instance-types_en.nt.bz2",
+                "core/instance_types_sdtyped-dbo_en.nt.bz2",
+                "core/instance-types-transitive_en.nt.bz2",
+                "core/iri-same-as-uri_en.nt.bz2",
+                "core/labels_en.nt.bz2",
+                "core/mappingbased-properties_en.nt.bz2",
+                "core/persondata_en.nt.bz2",
+                "core/skos-categories_en.nt.bz2",
+                "core/specific-mappingbased-properties_en.nt.bz2",
+                "core/transitive-redirects_en.nt.bz2"
+            ]
+        }, {
+            "id": "2015-10",
+            "dir": "2015-10/",
+            "files": [
+                "core/article_categories_en.ttl.bz2",
+                "core/category_labels_en.ttl.bz2",
+                "core/disambiguations_en.ttl.bz2",
+                "core/images_en.ttl.bz2",
+                "core/infobox_properties_en.ttl.bz2",
+                "core/instance_types_en.ttl.bz2",
+                "core/instance_types_transitive_en.ttl.bz2",
+                "core/labels_en.ttl.bz2",
+                "core/mappingbased_literals_en.ttl.bz2",
+                "core/mappingbased_objects_en.ttl.bz2",
+                "core/persondata_en.ttl.bz2",
+                "core/skos_categories_en.ttl.bz2",
+                "core/specific_mappingbased_properties_en.ttl.bz2",
+                "core/transitive_redirects_en.ttl.bz2",
+                "core/uri_same_as_iri_en.ttl.bz2"
+            ]
+        }, {
+            "id": "2016-04",
+            "dir": "2016-04/",
+            "files": [
+                "core/article_categories_en.ttl.bz2",
+                "core/category_labels_en.ttl.bz2",
+                "core/disambiguations_en.ttl.bz2",
+                "core/images_en.ttl.bz2",
+                "core/infobox_properties_en.ttl.bz2",
+                "core/instance_types_en.ttl.bz2",
+                "core/instance_types_transitive_en.ttl.bz2",
+                "core/labels_en.ttl.bz2",
+                "core/mappingbased_literals_en.ttl.bz2",
+                "core/mappingbased_objects_en.ttl.bz2",
+                "core/persondata_en.ttl.bz2",
+                "core/skos_categories_en.ttl.bz2",
+                "core/specific_mappingbased_properties_en.ttl.bz2",
+                "core/transitive_redirects_en.ttl.bz2",
+                "core/uri_same_as_iri_en.ttl.bz2"
+            ]
+        }
+    ]
+}

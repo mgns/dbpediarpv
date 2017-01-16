@@ -1,0 +1,22 @@
+{
+    "version": [
+        {
+            "id": "2.0",
+            "dir": "2.0/",
+            "files": [
+                "articles_label_en.nt.bz2",
+                "infoboxes.nt.bz2",
+                "redirects.nt.bz2"
+            ]
+        },
+        {
+            "id": "3.0",
+            "dir": "3.0/en/",
+            "files": [
+                "articles_label_en.nt.bz2",
+                "infobox_en.nt.bz2",
+                "redirect_en.nt.bz2"
+            ]
+        }
+    ]
+}
