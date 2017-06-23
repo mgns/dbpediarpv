@@ -11,18 +11,14 @@ import json
 import os, errno
 from os import listdir
 import bz2
-try:
-    from urllib.parse import urlparse
-except ImportError:
-     from urlparse import urlparse
-import urllib
+import urllib.parse
 import re
 import shutil
 import codecs
 import concurrent.futures
 import sys
-reload(sys)  
-sys.setdefaultencoding('utf8')
+#reload(sys)
+#sys.setdefaultencoding('utf8')
 import getopt
 import difflib
 from collections import defaultdict, Counter
@@ -449,17 +445,17 @@ def classifyVersions(versions):
 				Dp += DpR
 				Do += DoR
 				
-		print "************************************"
-		print "***** " + v1 + " -> " + v2 + " *****"
+		logging.info("************************************")
+		logging.info("***** " + v1 + " -> " + v2 + " *****")
 		
 		for p in Bp:
-			print "** Property " + p + " (" + str(Bp[p]) + ")"
+			logging.info("** Property " + p + " (" + str(Bp[p]) + ")")
 			if Dp[p]:
-				print "* deleted                         " + '%5d'%Dp[p] + " = " + str(float(Dp[p])/Bp[p])
+				logging.info("* deleted                         " + '%5d'%Dp[p] + " = " + str(float(Dp[p])/Bp[p]))
 			if Sp[p]:
-				print "* stable                          " + '%5d'%Sp[p] + " = " + str(float(Sp[p])/Bp[p])
+				logging.info("* stable                          " + '%5d'%Sp[p] + " = " + str(float(Sp[p])/Bp[p]))
 			for pX in [ k for k,v in Xp.items() if k.startswith(p + " -> ")]:
-				print "* -> " + '%-28s'%pX.split(' ', 2)[2] + " " + '%5d'%Xp[pX] + " = " + str(float(Xp[pX])/Bp[p])
+				logging.info("* -> " + '%-28s'%pX.split(' ', 2)[2] + " " + '%5d'%Xp[pX] + " = " + str(float(Xp[pX])/Bp[p]))
 		
 
 #		print "Xp: "
@@ -476,8 +472,8 @@ def classifyVersions(versions):
 		#print "Do: "
 		#print Do
 
-		print "***** " + v1 + " -> " + v2 + " *****"
-		print "************************************"
+		logging.info("***** " + v1 + " -> " + v2 + " *****")
+		logging.info("************************************")
 
 		v2dir = os.path.join(destpath, v2)
 
@@ -692,7 +688,7 @@ def asDecodedDBpediaUrl(s):
 	return urlDecode(asDBpediaUrl(s))
 
 def urlDecode(s):
-	return urllib.unquote(s)
+	return urllib.parse.unquote(s)
 
 def unquote(s):
 	if (re.match("^<[^>]*>", s)):
